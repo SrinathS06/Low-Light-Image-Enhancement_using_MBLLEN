@@ -4,5 +4,5 @@ Image and video enhancement techniques are pivotal in addressing these challenge
 
 One prevalent approach for improving low-light images involves leveraging cutting-edge deep learning technology.
 
-A brief Project Report is being provided:
-[BEFinal_Project_Mbllen_Reportt.pdf](https://github.com/SrinathS06/BE_FinalYear_MBLLEN/files/13361253/BEFinal_Project_Mbllen_Reportt.pdf)
+A brief Project Report is being provided:[BEFinal_Project_Mbllen_Report.pdf](https://github.com/SrinathS06/BE_FinalYear_MBLLEN/files/13361264/BEFinal_Project_Mbllen_Report.pdf)
+
